@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/cake/web/admin.jsp" value="file://$PROJECT_DIR$/cake/out/artifacts/cake_war_exploded" />
+        <entry key="file://$PROJECT_DIR$/cake/web/cakelist.jsp" value="file://$PROJECT_DIR$/cake/web" />
+        <entry key="file://$PROJECT_DIR$/cake/web/header.jsp" value="file://$PROJECT_DIR$/cake/out/artifacts/cake_war_exploded" />
+        <entry key="file://$PROJECT_DIR$/cake/web/profile.jsp" value="file://$PROJECT_DIR$/cake/out/artifacts/cake_war_exploded" />
+        <entry key="file://$PROJECT_DIR$/cake/web/registerSuccess.jsp" value="file://$PROJECT_DIR$/cake/out/artifacts/cake_war_exploded" />
+        <entry key="file://$PROJECT_DIR$/cake/web/user_register.jsp" value="file://$PROJECT_DIR$/cake/out/artifacts/cake_war_exploded" />
+      </map>
+    </option>
+  </component>
+</project>
